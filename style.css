@@ -1,0 +1,28 @@
+.header{
+    width: 100%;
+    height: 100px;
+    background-color: #2aabd2;
+    text-align: center;
+}
+.center {
+    background-image: url("photos/pic1.jpg");
+    width: 100%;
+    height: 600px;
+}
+.leftmenu{
+    height: 200px;
+}
+.rightmenu{
+    height: 400px;
+}
+.price{
+    font-size: larger;
+    color: red;
+    padding-left: 20%;
+}
+.footer{
+    width: 100%;
+    height: 100px;
+    background-color: #2aabd2;
+    text-align: center;
+}
